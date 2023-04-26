@@ -1,7 +1,7 @@
 Bio-Links
 =========================
 
-https://links.adr.jmz/
+https://bio-links-xi.vercel.app
 
 ![thumbnail](./images/thumb.jpg)
 
