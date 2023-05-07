@@ -1,7 +1,7 @@
 Bio-Links
 =========================
 
-https://bio-links-xi.vercel.app
+https://links.adrjmz.com
 
 ![thumbnail](./images/thumb.jpg)
 
@@ -13,4 +13,4 @@ MIT by Adrian Jimenez
 
 You can create your own bio-link page for free without notifying me by forking this project under the following conditions:
 
-- Add a link to [my homepage](https://www.adr.jmz/) anywhere
+- Add a link to [my homepage](https://adrjmz.com/) anywhere
